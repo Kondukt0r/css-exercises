@@ -7,6 +7,7 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -56,5 +57,5 @@ li {
 }
 
 .footer {
-  margin-top: auto;
+  background-color: #eeeeee;
 }
