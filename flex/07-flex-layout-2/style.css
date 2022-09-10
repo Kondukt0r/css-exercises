@@ -6,6 +6,15 @@ body {
   flex-direction: column;
 }
 
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
 .middle-container {
   display: flex;
   flex: 1;
